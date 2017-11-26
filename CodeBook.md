@@ -1,6 +1,6 @@
 # Codebook
 
-The file `tidy.txt` contains the average of the measurements listed below grouped by the identifiers list below. The data contains 81 rows and 180 rows of data. 
+The file `tidy.txt` contains the average of the measurements listed below grouped by the identifiers list below. The data contains 81 columns and 180 rows of data. 
 
 ### Identifiers
 
